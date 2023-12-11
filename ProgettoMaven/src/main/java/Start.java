@@ -5,6 +5,8 @@ public class Start {
 	{
 		System.out.println("ciao mondo real maveen a");
 		System.out.println("ciao mondo real maveen a");
+		System.out.println("ciao mondo real maveen a");
+		System.out.println("ciao mondo real maveen a");
 	}
 
 }
